@@ -18,26 +18,28 @@
 
    ### Resource provided
 
-    - Packet capture file (pcap).
+   - Packet capture file (pcap).
 
    ### Tools Used
 
-    - Wireshark
-    - HxD App
+   Wireshark
+   - HxD App
 
-  ### Deliverables
+   ### Deliverables
 
-    - Report and findings.
+   - Report and findings.
 
 
 
    ## TASK TWO: Social Engineering Investigation
 
-    ### Background Information of the Task
+   ### Background Information of the Task
 
-    You have been assigned 7 emails to investigate. Some of these emails may contain content which can be classed as malicious, due to a number of reasons. They may contain malicious attachments, suspicious links, or Phishing attempts to gather private account information from the user.
+   You have been assigned 7 emails to investigate. Some of these emails may contain content which can be classed as malicious, due to 
+    a number of reasons. They may contain malicious attachments, suspicious links, or Phishing attempts to gather private account 
+    information from the user.
 
-    You are expected to report your findings on each email, so that we can either block or release these emails to the users.
+   You are expected to report your findings on each email, so that we can either block or release these emails to the users.
 
    ### Task Objectives
 
@@ -45,8 +47,8 @@
 
    ### Resource provided
 
-    - Pdf of emails to investigate
+   - Pdf of emails to investigate
 
-  ### Deliverables
+   ### Deliverables
 
-    - Report and findings.
+   - Report and findings.
