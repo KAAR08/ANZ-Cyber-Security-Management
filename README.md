@@ -22,7 +22,7 @@
 
    ### Tools Used
 
-   Wireshark
+   - Wireshark
    - HxD App
 
    ### Deliverables
